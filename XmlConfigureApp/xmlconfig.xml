@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+	<delimiter>|</delimiter>
+	<sourceDir>source</sourceDir>
+	<targetDir>target</targetDir>
+	<allowedExtensions>.png,.jpg,.jpeg,.tif,.tiff,.gif</allowedExtensions>
+	<metaDateFormat>yyyy/MM/d</metaDateFormat>
+	<metaTimeFormat>HH:mm:ss</metaTimeFormat>
+	<zipFileNameFormat>yyyy_MM_dd_hh_mm_ss</zipFileNameFormat>
+</config>
