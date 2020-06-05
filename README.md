@@ -16,5 +16,5 @@ Usage:
   - The SQL connection string may require the "Server" value to be modified according to the local machine setup.
   - Once a .zip file is inspected, you can open the image files from the application itself.
   
-  Note:
-  - Both executables are dependent on XmlConfigureApp assembly, therefore the xmlconfig.xml should match the configuration of both applications, otherwise they won't be able to work properly.
+Note:
+- Both executables are dependent on XmlConfigureApp assembly, therefore the xmlconfig.xml should match the configuration of both applications, otherwise they won't be able to work properly.
